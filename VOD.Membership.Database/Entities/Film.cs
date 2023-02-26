@@ -1,10 +1,11 @@
 ﻿using AutoMapper.Configuration.Conventions;
 using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
+using VOD.Membership.Database.Interfaces;
 
 namespace VOD.Membership.Data.Entities;
 
-public class Film
+public class Film : IEntity
 {
     public int Id { get; set; }
     [Required, MaxLength(50)]

@@ -22,8 +22,4 @@
     <ProjectReference Include="..\VOD_common\VOD.common.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

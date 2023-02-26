@@ -1,6 +1,8 @@
-﻿namespace VOD.Membership.Data.Entities;
+﻿using VOD.Membership.Database.Interfaces;
 
-public class Director
+namespace VOD.Membership.Data.Entities;
+
+public class Director : IEntity
 {
     public int Id { get; set; }
     public string Name { get; set; }
