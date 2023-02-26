@@ -30,7 +30,7 @@ public class FilmController : ControllerBase
     [HttpGet("{id}")]
     public async Task<IResult> Get(int id)
     {
-        var entity = _db.GetSingleAsync<Film>(e=> e.Id == id);
+        var entity = await _db.GetSingleAsync<Film>(e=> e.Id == id);
         if (entity == null) return Results.NotFound();
         else return Results.Ok(entity);
     }

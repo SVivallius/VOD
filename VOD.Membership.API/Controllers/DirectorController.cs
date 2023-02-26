@@ -45,7 +45,7 @@ namespace VOD.Membership.API.Controllers
                     return Results.Created($"Created post: /{node}/{entity.Id}", entity);
                 }
             }
-            catch (Exception ex)
+            catch
             {
                 return Results.BadRequest($"Could not post entity: {typeof(Director).Name}");
             }

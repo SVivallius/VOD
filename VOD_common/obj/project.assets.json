@@ -3976,19 +3976,19 @@
   },
   "packageFolders": {
     "C:\\Users\\varul\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj",
+      "projectUniqueName": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj",
       "projectName": "VOD.common",
-      "projectPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj",
+      "projectPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj",
       "packagesPath": "C:\\Users\\varul\\.nuget\\packages\\",
-      "outputPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\obj\\",
+      "outputPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\varul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4072,7 +4072,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
