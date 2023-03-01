@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.API\\VOD.Membership.API.csproj": {}
+    "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.API\\VOD.Membership.API.csproj": {}
   },
   "projects": {
-    "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.API\\VOD.Membership.API.csproj": {
+    "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.API\\VOD.Membership.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.API\\VOD.Membership.API.csproj",
+        "projectUniqueName": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.API\\VOD.Membership.API.csproj",
         "projectName": "VOD.Membership.API",
-        "projectPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.API\\VOD.Membership.API.csproj",
+        "projectPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.API\\VOD.Membership.API.csproj",
         "packagesPath": "C:\\Users\\varul\\.nuget\\packages\\",
-        "outputPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.API\\obj\\",
+        "outputPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\varul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj": {
-                "projectPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj"
+              "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj": {
+                "projectPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj"
               },
-              "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj": {
-                "projectPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj"
+              "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj": {
+                "projectPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj"
               }
             }
           }
@@ -94,21 +94,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj": {
+    "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj",
+        "projectUniqueName": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj",
         "projectName": "VOD.Membership.Data",
-        "projectPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj",
+        "projectPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj",
         "packagesPath": "C:\\Users\\varul\\.nuget\\packages\\",
-        "outputPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD.Membership.Database\\obj\\",
+        "outputPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\varul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -127,8 +127,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj": {
-                "projectPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj"
+              "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj": {
+                "projectPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj"
               }
             }
           }
@@ -186,21 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj": {
+    "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj",
+        "projectUniqueName": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj",
         "projectName": "VOD.common",
-        "projectPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\VOD.common.csproj",
+        "projectPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\VOD.common.csproj",
         "packagesPath": "C:\\Users\\varul\\.nuget\\packages\\",
-        "outputPath": "C:\\00 - Programmering\\SQL Databas och API\\VOD\\VOD_common\\obj\\",
+        "outputPath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD_common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\varul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -284,7 +284,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

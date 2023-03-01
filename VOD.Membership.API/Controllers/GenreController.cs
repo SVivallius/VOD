@@ -13,7 +13,7 @@ namespace VOD.Membership.API.Controllers
     {
         private readonly IDbService _db;
 
-        public GenreController(VOD_Service db)
+        public GenreController(IDbService db)
         {
             _db = db;
         }

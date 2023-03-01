@@ -16,7 +16,7 @@ public class FilmController : ControllerBase
 {
     private readonly IDbService _db;
 
-    public FilmController(VOD_Service db)
+    public FilmController(IDbService db)
     {
         _db = db;
     }

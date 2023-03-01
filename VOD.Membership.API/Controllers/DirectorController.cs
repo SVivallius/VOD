@@ -9,11 +9,11 @@ namespace VOD.Membership.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class Director_Controller : ControllerBase
+    public class DirectorController : ControllerBase
     {
         private readonly IDbService _db;
 
-        public Director_Controller(VOD_Service db)
+        public DirectorController(IDbService db)
         {
             _db = db;
         }

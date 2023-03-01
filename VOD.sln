@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VOD.Membership.Data", "VOD.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VOD.Membership.API", "VOD.Membership.API\VOD.Membership.API.csproj", "{B0B624AB-454B-4D71-8D2F-FD054E86BEC8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VOD.UI.Admin", "VOD.UI.Admin\VOD.UI.Admin.csproj", "{C872BC66-F30E-4097-9004-8BCB31D1E9E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B0B624AB-454B-4D71-8D2F-FD054E86BEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0B624AB-454B-4D71-8D2F-FD054E86BEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0B624AB-454B-4D71-8D2F-FD054E86BEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C872BC66-F30E-4097-9004-8BCB31D1E9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C872BC66-F30E-4097-9004-8BCB31D1E9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C872BC66-F30E-4097-9004-8BCB31D1E9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C872BC66-F30E-4097-9004-8BCB31D1E9E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
