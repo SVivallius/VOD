@@ -88,3 +88,6 @@ D:\0 - Programmering\ITHS\SQL\Entity Framework\VOD\VOD.UI.Admin\obj\Debug\net6.0
 D:\0 - Programmering\ITHS\SQL\Entity Framework\VOD\VOD.UI.Admin\obj\Debug\net6.0\VOD.UI.Admin.pdb
 D:\0 - Programmering\ITHS\SQL\Entity Framework\VOD\VOD.UI.Admin\obj\Debug\net6.0\VOD.UI.Admin.genruntimeconfig.cache
 D:\0 - Programmering\ITHS\SQL\Entity Framework\VOD\VOD.UI.Admin\obj\Debug\net6.0\ref\VOD.UI.Admin.dll
+D:\0 - Programmering\ITHS\SQL\Entity Framework\VOD\VOD.UI.Admin\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\0 - Programmering\ITHS\SQL\Entity Framework\VOD\VOD.UI.Admin\bin\Debug\net6.0\System.Text.Json.dll
+D:\0 - Programmering\ITHS\SQL\Entity Framework\VOD\VOD.UI.Admin\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

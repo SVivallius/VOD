@@ -16,9 +16,10 @@ public class Film : IEntity
     public int DirectorId { get; set; }
     public virtual Director Director { get; set; }
     [AllowNull]
-    public virtual ICollection<Genre> Genres { get; set; }
+    public virtual ICollection<Genre>? Genres { get; set; }
     public bool Free { get; set; } = true;
     [Required, MaxLength(255)]
     public string FilmUrl { get; set; }
-    public virtual ICollection<Film> SimilarFilms { get; set; }
+    [AllowNull]
+    public virtual ICollection<Film>? SimilarFilms { get; set; }
 }

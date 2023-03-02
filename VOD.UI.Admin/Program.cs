@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using VOD.common.HttpClients;
+using VOD.common.Services;
 using VOD.UI.Admin.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,8 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddHttpClient<MembershipHttpClient>(
     client => client.BaseAddress = 
     new Uri("http://localhost:6001/api/"));
+
+builder.Services.AddScoped<AdminService>();
 
 var app = builder.Build();
 

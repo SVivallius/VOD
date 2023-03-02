@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sofpzyPvejJD+Pg8Iz7Cq+kUzD5U+s1z9JDDUkfxmq++uvOYL+H+P4HPVEIoY8mCgWDWW06yk+1i8dlbQdxp7Q==",
+  "dgSpecHash": "9Ad2WrpcqRC+f/b3+xEWHlYQCZIrFXA6rz7mYiV8CwzlWZ3t4ZXmiirx/RyYeqUyYIWSOMYjyhQ59GiTfjyzNw==",
   "success": true,
   "projectFilePath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.Membership.Database\\VOD.Membership.Data.csproj",
   "expectedPackageFiles": [
@@ -74,7 +74,7 @@
     "C:\\Users\\varul\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\varul\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\varul\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"

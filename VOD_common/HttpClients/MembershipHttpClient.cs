@@ -1,8 +1,10 @@
-﻿namespace VOD.common.HttpClients;
+﻿using System.Text.Json;
+
+namespace VOD.common.HttpClients;
 
 public class MembershipHttpClient
 {
-	HttpClient _client;
+	public HttpClient _client;
 
 	public MembershipHttpClient(HttpClient client)
 	{

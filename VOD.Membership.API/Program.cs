@@ -22,9 +22,15 @@ builder.Services.AddScoped<IDbService, VOD_Service>();
 // Automapper config
 var MapConfig = new AutoMapper.MapperConfiguration(cfg =>
 {
-    cfg.CreateMap<Director, DirectorDTO>().ReverseMap();
-    cfg.CreateMap<Film, FilmDTO>().ReverseMap();
-    cfg.CreateMap<Genre, GenreDTO>().ReverseMap();
+    cfg.CreateMap<Director, DirectorDTO>()
+        .ReverseMap()
+        .ForMember(dest => dest.Films, src => src.Ignore());
+    cfg.CreateMap<Film, FilmDTO>()
+        .ReverseMap()
+        .ForMember(dest => dest.SimilarFilms, src => src.Ignore());
+    cfg.CreateMap<Genre, GenreDTO>()
+        .ReverseMap()
+        .ForMember(dest => dest.Films, src => src.Ignore());
 });
 
 var mapper = MapConfig.CreateMapper();

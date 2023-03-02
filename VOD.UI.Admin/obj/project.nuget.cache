@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U7SDVJntJceG8MenZ15ursw54zhGldswBKq6hrez4XXattLxfMxgYt0i2e/V1IvdI9MShtBPjEv/Q/wgydi13g==",
+  "dgSpecHash": "uXg5paKLNG+kTGkb61JZfviQh+BAoP5mWd/Frj3o+LOP+mn5XDMWFtY0HnJRANPddT3FowAylOnQGtCIhVfmsw==",
   "success": true,
   "projectFilePath": "D:\\0 - Programmering\\ITHS\\SQL\\Entity Framework\\VOD\\VOD.UI.Admin\\VOD.UI.Admin.csproj",
   "expectedPackageFiles": [
@@ -68,8 +68,8 @@
     "C:\\Users\\varul\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
-    "C:\\Users\\varul\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
-    "C:\\Users\\varul\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\varul\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\varul\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\varul\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
