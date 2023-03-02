@@ -7,7 +7,7 @@
 
     protected override async Task OnInitializedAsync()
     {
-        List<FilmDTO> result = await AdminService.GetAsync<FilmDTO>($"Films?freeOnly=false");
+        List<FilmDTO> result = await AdminService.GetAsync<FilmDTO>($"Film?freeOnly=false");
         Model = result;
     }
 }

@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\VOD.UI.Admin.Debug\Pages\DirectorsPortal.razor" Link="DirectorsPortal.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="System.Text.Json" Version="7.0.2" />
   </ItemGroup>
 

@@ -20,6 +20,6 @@ public class Film : IEntity
     public bool Free { get; set; } = true;
     [Required, MaxLength(255)]
     public string FilmUrl { get; set; }
-    [AllowNull]
-    public virtual ICollection<Film>? SimilarFilms { get; set; }
+    //[AllowNull]
+    //public virtual ICollection<Film>? SimilarFilms { get; set; }
 }

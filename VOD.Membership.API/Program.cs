@@ -27,7 +27,7 @@ var MapConfig = new AutoMapper.MapperConfiguration(cfg =>
         .ForMember(dest => dest.Films, src => src.Ignore());
     cfg.CreateMap<Film, FilmDTO>()
         .ReverseMap()
-        .ForMember(dest => dest.SimilarFilms, src => src.Ignore());
+        .ForMember(dest => dest.DirectorId, src => src.Ignore());
     cfg.CreateMap<Genre, GenreDTO>()
         .ReverseMap()
         .ForMember(dest => dest.Films, src => src.Ignore());
